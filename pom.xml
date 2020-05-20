@@ -548,13 +548,13 @@
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-resources-plugin</artifactId>
 					<version>2.4</version>
+			  </plugin>
 				<plugin>
 					 <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-surefire-plugin</artifactId>
-  <version>3.0.0-M4</version>
-  <type>maven-plugin</type>
+                     <artifactId>maven-surefire-plugin</artifactId>
+                     <version>3.0.0-M4</version>
 				</plugin>
-				</plugin>
+				
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>
